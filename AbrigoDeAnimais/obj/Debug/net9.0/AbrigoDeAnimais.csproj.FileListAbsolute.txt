@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\AbrigoDeAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\AbrigoDeAnimais.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\AbrigoDeAnimais.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\AbrigoDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\bin\Debug\net9.0\AbrigoDeAnimais.exe
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\bin\Debug\net9.0\AbrigoDeAnimais.deps.json
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\bin\Debug\net9.0\AbrigoDeAnimais.runtimeconfig.json
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\bin\Debug\net9.0\AbrigoDeAnimais.dll
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\bin\Debug\net9.0\AbrigoDeAnimais.pdb
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\AbrigoDeAnimais.dll
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\refint\AbrigoDeAnimais.dll
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\AbrigoDeAnimais.pdb
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\AbrigoDeAnimais.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Nova pasta\AbrigoDeAnimais\obj\Debug\net9.0\ref\AbrigoDeAnimais.dll
