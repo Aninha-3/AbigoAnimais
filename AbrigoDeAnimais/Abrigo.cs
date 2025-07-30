@@ -1,3 +1,4 @@
+// Nomeando as classes para a criação do abrigo de animais
 namespace AbrigoDeAnimais;
 
 class Abrigo()
